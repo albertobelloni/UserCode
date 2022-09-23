@@ -13,7 +13,7 @@ Alberto's UserCode area:
 
 It is possible to download individual files from the repository (e.g., single utility scripts) with the following command:
 ```
-wget https://raw.githubusercontent.com/albertobelloni/UserCode/master/PATH_TO_FILE/FILE_NAME```
+wget https://raw.githubusercontent.com/albertobelloni/UserCode/master/PATH_TO_FILE/FILE_NAME
 ```
 Some details on the available scripts in UtilityScripts:
 
